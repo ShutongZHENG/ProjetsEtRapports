@@ -1,0 +1,40 @@
+// Reactions
+
+"glycerol-3-phosphate dehydrogenase (NAD+)" : "Glycerone phosphate" + "NADH" -> "glycerophosphate" + "NAD+" | 200 uM, 22 uM - 345;	// 0-14
+"glucose 1-dehydrogenase [NAD(P)+]" : "a sugar" + "NAD+" -> "glucarolactone" + "NADH" | 170 uM, 3.3 mM - 68.23;	// 0-14
+"glucose 1-dehydrogenase [NAD(P)+]" : "a sugar" + "NADP" -> "glucarolactone" + "NADPH" | 170 uM, 140 uM - 68.23;	// 0-14
+"L-2-hydroxycarboxylate dehydrogenase [NAD(P)+]" : "pyruvate" + "NADH" -> "L-Lactate" + "NAD+" | 840 uM, 140 uM - 1.3;	// 0-14
+"L-2-hydroxycarboxylate dehydrogenase [NAD(P)+]" : "pyruvate" + "NADPH" -> "L-Lactate" + "NADP" | 840 uM, 20 uM - 1.3;	// 0-14
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" | 840 uM - 83.1;	// 0-14
+"(S)-2-hydroxy-acid oxidase" : "L-Lactate" -> "pyruvate" + "H2O2" | 340 uM - 0.52;	// 0-14
+"glycerol-3-phosphate oxidase" : "glycerophosphate" -> "Glycerone phosphate" + "H2O2" | 1.9 mM - 17.9;	// 0-14
+"cellobiose dehydrogenase (acceptor)" : "cellobiose" -> "cellobionolactone" + "H2O2" | 75 uM - 4.11;	// 4-7
+"L-aspartate oxidase" : "Asp" -> "iminoaspartate" + "H2O2" | 13.3 mM - 0.78;	// 8.8-12
+"glycine oxidase" : "Gly" -> "2-iminoacetate" + "H2O2" | 3.03 mM - 39;	// 0-14
+"lactate 2-monooxygenase" : "L-Lactate" -> "pyruvate" + "H2O2" | 20 uM - 13.2;	// 0-14
+"cellobiose phosphorylase" : "alpha-D-glucose 1 phosphate" + "glucose" -> "cellobiose" + "phosphate" | 2.15 mM, 3.79 mM - 43.2;	// 0-14
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "fucosyllactose" | 106 uM, 7.81 mM - 0.131;	// 0-14
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactulose" -> "GDP" | 106 uM, 76 mM - 0.131;	// 0-14
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactulose" -> "GDP" + "2'-fucosyl-D-lactulose" | 106 uM, 76 mM - 0.131;	// 0-14
+"N-acetyllactosaminide 3-alpha-galactosyltransferase" : "UDP-Gal" + "lactose" -> "UDP" | 100 uM, 100 mM - 3.4;	// 0-14
+"N-acetyllactosaminide 3-alpha-galactosyltransferase" : "UDP-Gal" + "lactose" -> "UDP" + "alpha-D-galactosyl-(1-3)-beta-D-galactosyl-(1-4)-beta-D-glucose" | 100 uM, 100 mM - 3.4;	// 0-14
+"N-acetyllactosaminide 3-alpha-galactosyltransferase" : "UDP-Gal" + "lactose" -> "UDP" + "alpha-D-galactosyl-(1->3)-beta-D-galactosyl-(1->4)-D-glucose" | 100 uM, 100 mM - 3.4;	// 0-14
+"N-acetyllactosaminide 3-alpha-galactosyltransferase" : "UDP-GalNAc" + "lactose" -> "UDP" | 500 uM, 100 mM - 0.3;	// 0-14
+"4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "3'-fucosyllactose" | 6.448 mM, 3.729 mM - 0.043;	// 5-9.5
+"4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "L-Fuc-alpha-(1->3)-[D-Gal-beta(1->4)]-D-Glc" | 300 uM, 72 mM - 1.1;	// 0-14
+"alpha,alpha-trehalose synthase" : "trehalose" + "ADP" -> "ADP-Glc" + "glucose" | 25.24 mM, 14.19 mM - 1.2;	// 0-14
+"alpha,alpha-trehalose synthase" : "trehalose" + "UDP" -> "UDP-Glc" + "glucose" | 25.24 mM, 29.54 mM - 1.2;	// 0-14
+"alpha,alpha-trehalose synthase" : "trehalose" + "GDP" -> "GDP-Glc" + "glucose" | 25.24 mM, 23.77 mM - 1.2;	// 0-14
+"beta-galactoside alpha-(2,6)-sialyltransferase" : "CMP-NeuAc" + "lactose" -> "CMP" + "6'-sialyllactose" | 900 uM, 62 mM - 16.9;	// 7.5-10
+"tyrosine transaminase" : "Trp" + "oxalacetate" -> "indolpyruvate" + "Gly" | 7.83 mM, 56.13 mM - 0.36;	// 0-14
+"aromatic-amino-acid transaminase" : "Trp" + "oxalacetate" -> "indolpyruvate" + "Asp" | 600 uM, 120 uM - 3.5;	// 6-9.6
+"aromatic-amino-acid transaminase" : "Phe" + "oxalacetate" -> "phenylpyruvate" + "Asp" | 60 uM, 3.8 mM - 0.04;	// 6-9.5
+"pyridoxal kinase" : "ATP" + "pyridoxol" -> "ADP" + "pyridoxine5'-phosphate" | 9.1 uM, 48 uM - 9.5;	// 0-14
+"hydroxymethylpyrimidine kinase" : "ATP" + "pyridoxol" -> "ADP" + "pyridoxine5'-phosphate" | 143.1 uM, 66 uM - 2.5;	// 5.5-6.5
+"UMP/CMP kinase" : "ATP" + "CMP" -> "ADP" + "CDP" | 29 uM, 266 uM - 9.5;	// 0-14
+"(d)CMP kinase" : "gTP" + "CMP" -> "GDP" + "CDP" | 640 uM, 35 uM - 1.15;	// 0-14
+"(d)CMP kinase" : "ATP" + "CMP" -> "ADP" + "CDP" | 38 uM, 35 uM - 0.022;	// 0-14
+"phloretin hydrolase" : "5'-O-beta-D-glucosylpyridoxine" + "lactose" -> "pyridoxol" + "a sugar" + "pyridoxinedisaccharide" | 1 mM, 16 mM - 1;	// 0-14
+"phosphoenolpyruvate carboxykinase (GTP)" : "GDP" + "phosphoenolpyruvate" -> "gTP" + "oxalacetate" | 50 uM, 700 uM - 7.2;	// 0-14
+"cellobiose epimerase" : "lactose" -> "lactulose" | 28.8 mM - 1800;	// 3-9
+"cellobiose epimerase" : "lactose" -> "lactulose" + "epilactose" | 613.54 mM - 24.7;	// 6-8.5

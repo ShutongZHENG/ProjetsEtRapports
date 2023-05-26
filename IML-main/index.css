@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    height:100%;
+    padding:0px;
+}
+
+.left {
+    width: 125px;
+    height:  1000px;
+    background: RGB(58,69,191);
+}
+
+.right {
+    width: 100%;
+    height: 1000px;
+    background: RGB(251,244,225);
+}
+
+.wrap {
+    display: flex;
+}
+
+.icons {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+#logo{
+    margin-top: 40px;
+    margin-bottom: 75px;
+}
+
+.icons_button>img{
+
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+#content_learn{
+    display: none;
+    /*display: none;*/
+}
+#content_challenge{
+    display: none;
+    margin-left: 75px;
+    margin-top: 70px;
+}
+#content_option{
+    display: flex;
+
+}
+h1{
+    font-size: 50px;
+    font-style: normal;
+    color: RGB(58,69,191);
+}
+p{
+    font-size: 20px;
+    color: RGB(58,69,191);
+}
+#content_learn_left{
+    margin-left: 75px;
+    margin-top: 40px;
+    margin-right: 50px;
+    flex: 0 0 45%;
+
+}
+
+#content_learn_right{
+    flex: 1 1 0;
+    margin-top: 165px;
+    margin-right: 1%;
+    margin-left: 1px;
+}
+#content_learn_right>img{
+    width: 80%;
+}
+
+#result_challenge{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+
+}
+
+#result_challenge>button {
+    background-color: RGB(248,214,72);
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 30%;
+    font-size: 20px;
+}
+
+#content_option_left{
+    margin-left: 75px;
+    margin-top: 40px;
+    margin-right: 50px;
+    flex: 0 0 45%;
+
+}
+
+#content_option_right{
+    flex: 1 1 0;
+    margin-top: 165px;
+    margin-right: 1%;
+    margin-left: 1px;
+}
+
+#textarea_words{
+    resize:none;
+    width:350px;
+    height:450px;
+}
+
+#content_learn_right_buttons>button{
+    background-color: RGB(248,214,72);
+    border: none;
+    color: black;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 32px;
+    /*margin-right: %;*/
+    font-size: 20px;
+}

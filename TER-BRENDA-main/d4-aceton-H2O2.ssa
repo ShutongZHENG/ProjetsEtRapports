@@ -1,0 +1,287 @@
+// Reactions
+
+"alcohol dehydrogenase" : "Ethanol" + "NAD+" -> "ethanal" + "NADH" | 910 uM, 1.3 mM - 365;	// 0-14
+"alcohol dehydrogenase" : "CH3OH" + "NAD+" -> "methanal" + "NADH" | 27 mM, 12.4 mM - 3.1;	// 8.8-9.6
+"alcohol dehydrogenase" : "benzylalcohol" + "NAD+" -> "ArCHO" + "NADH" | 120 uM, 4 mM - 20;	// 0-14
+"alcohol dehydrogenase" : "aceton" + "NADH" -> "2-propanol" + "NAD+" | 6.6 mM, 13 uM - 0.317;	// 8.8-9.6
+"alcohol dehydrogenase" : "butanol" + "NAD+" -> "butanal" + "NADH" | 80 uM, 4 mM - 3.1;	// 0-14
+"alcohol dehydrogenase" : "propanol" + "NAD+" -> "Propanal" + "NADH" | 240 uM, 4 mM - 2.5;	// 0-14
+"alcohol dehydrogenase" : "retinol" + "NAD+" -> "retinal" + "NADH" | 9 uM, 13 uM - 0.4;	// 8-10.5
+"alcohol dehydrogenase" : "cinnamic alcohol" + "NAD+" -> "cinnamaldehyde" + "NADH" | 110 uM, 450 uM - 43;	// 0-14
+"alcohol dehydrogenase" : "2-butanol" + "NAD+" -> "butanone" + "NADH" | 350 uM, 12.4 mM - 3.55;	// 8.8-9.6
+"alcohol dehydrogenase" : "p-anisalcohol" + "NAD+" -> "anisaldehyde" + "NADH" | 70 uM, 4 mM - 2.9;	// 0-14
+"alcohol dehydrogenase" : "(2S)-butanol" + "NAD+" -> "butanone" + "NADH" | 12 uM, 4 mM - 4.8;	// 0-14
+"alcohol dehydrogenase" : "(2R)-butanol" + "NAD+" -> "butanone" + "NADH" | 410 uM, 4 mM - 1;	// 0-14
+"alcohol dehydrogenase" : "(S)-indanol" + "NAD+" -> "indanon" + "NADH" | 4.2 mM, 240 uM - 61.4;	// 0-14
+"alcohol dehydrogenase" : "12-hydroxydodecanoate" + "NAD+" -> "12-oxododecanoate" + "NADH" | 230 uM, 13 uM - 4;	// 8-10.5
+"alcohol dehydrogenase" : "1-phenylethanol" + "NAD+" -> "Acetophenone" + "NADH" | 244 mM, 89 uM - 35.7;	// 6-14
+"alcohol dehydrogenase" : "3-pentanol" + "NAD+" -> "3-pentanone" + "NADH" | 225 uM, 12.4 mM - 2.92;	// 8.8-9.6
+"alcohol dehydrogenase" : "S-tetralol" + "NAD+" -> "tetralone" + "NADH" | 4.2 mM, 240 uM - 57;	// 0-14
+"alcohol dehydrogenase" : "3-anisyl alcohol" + "NAD+" -> "m-anisaldehyde" + "NADH" | 1.2 mM, 12.4 mM - 1.4;	// 8.8-9.6
+"alcohol dehydrogenase" : "(1S)-phenylethanol" + "NAD+" -> "Acetophenone" + "NADH" | 18.1 mM, 240 uM - 1.1;	// 0-14
+"alcohol dehydrogenase" : "(S)-2-pentanol" + "NAD+" -> "pentanone" + "NADH" | 70 uM, 4 mM - 2.6;	// 0-14
+"alcohol dehydrogenase" : "(R)-2-pentanol" + "NAD+" -> "pentanone" + "NADH" | 220 uM, 4 mM - 1.1;	// 0-14
+"alcohol dehydrogenase" : "cycloheptanol" + "NAD+" -> "cycloheptanone" + "NADH" | 5.1 mM, 180 uM - 7;	// 0-14
+"alcohol dehydrogenase" : "4-hydroxy-retinol" + "NAD+" -> "4-oxo-retinal" + "NADH" | 4 uM, 13 uM - 2.83;	// 8-10.5
+"alcohol dehydrogenase" : "16-hydroxyhexadecanoate" + "NAD+" -> "16-oxohexadecanoic acid" + "NADH" | 60 uM, 13 uM - 6.17;	// 8-10.5
+"alcohol dehydrogenase" : "3-bromobenzylalcohol" + "NAD+" -> "3-bromobenzaldehyde" + "NADH" | 140 uM, 12.4 mM - 1.2;	// 8.8-9.6
+"alcohol dehydrogenase" : "4-bromobenzylalcohol" + "NAD+" -> "4-bromobenzaldehyde" + "NADH" | 120 uM, 12.4 mM - 1.1;	// 8.8-9.6
+"alcohol dehydrogenase" : "1-tetralol" + "NAD+" -> "tetralone" + "NADH" | 8.5 mM, 180 uM - 9.6;	// 0-14
+"alcohol dehydrogenase" : "2-ethoxyethanol" + "NAD+" -> "2-ethoxyacetaldehyde" + "NADH" | 250 uM, 4 mM - 1.6;	// 0-14
+"alcohol dehydrogenase" : "12-hydroxylauric acid methyl ester" + "NAD+" -> "12-oxolauric acid methyl ester" + "NADH" | 100 uM, 1.3 mM - 27.6;	// 0-14
+"alcohol dehydrogenase (NADP+)" : "Ethanol" + "NAD+" -> "ethanal" + "NADH" | 29.4 mM, 20 mM - 19.2;	// 0-14
+"homoserine dehydrogenase" : "L-hSer" + "NAD+" -> "aspartate-4-semialdehyde" + "NADH" | 1.08 mM, 24.9 mM - 7;	// 0-14
+"(R,R)-butanediol dehydrogenase" : "(R,R)-butanediol" + "NAD+" -> "(R)-acetoin" + "NADH" | 580 uM, 1.04 mM - 4.28;	// 6.5-7
+"(R,R)-butanediol dehydrogenase" : "acetoin" + "NAD+" -> "diacetyl" + "NADH" | 6.5 mM, 600 uM - 0.097;	// 0-14
+"glycerol dehydrogenase" : "glycerin" + "NAD+" -> "glycerone" + "NADH" | 500 uM, 130 uM - 0.612;	// 5.5-9
+"glycerol dehydrogenase" : "glycerin" + "NAD+" -> "D-glyceraldehyde" + "NADH" | 200 uM, 15 uM - 1.33;	// 0-14
+"glycerol dehydrogenase" : "1,3-butandiol" + "NAD+" -> "hydroxybutanone" + "NADH" | 11.9 mM, 1 mM - 3.3;	// 8-10.5
+"glycerol-3-phosphate dehydrogenase (NAD+)" : "Glycerone phosphate" + "NADH" -> "glycerophosphate" + "NAD+" | 200 uM, 22 uM - 345;	// 0-14
+"glycerol-3-phosphate dehydrogenase (NAD+)" : "glycerophosphate" + "NAD+" -> "Glycerone phosphate" + "NADH" | 740 uM, 260 uM - 32;	// 5.2-7.8
+"D-xylulose reductase" : "Xylitol" + "NAD+" -> "xylulose" + "NADH" | 39 uM, 290 mM - 170;	// 0-14
+"D-xylulose reductase" : "D-allitol" + "NAD+" -> "Fructose" + "NADH" | 3 mM, 500 mM - 19.7;	// 0-14
+"D-xylulose reductase" : "L-lyxitol" + "NAD+" -> "L-xylulose" + "NADH" | 31.1 mM, 110 uM - 3.35;	// 4-11
+"D-xylulose reductase" : "allitol" + "NAD+" -> "Fructose" + "NADH" | 21 mM, 290 mM - 1.19;	// 0-14
+"L-xylulose reductase" : "Xylitol" + "NAD+" -> "L-xylulose" + "NADH" | 15 mM, 990 uM - 17;	// 0-14
+"L-arabinitol 4-dehydrogenase" : "Xylitol" + "NAD+" -> "xylulose" + "NADH" | 250 uM, 200 uM - 1180;	// 0-14
+"L-arabinitol 4-dehydrogenase" : "D-allitol" + "NAD+" -> "Fructose" + "NADH" | 4.12 mM, 200 uM - 833;	// 0-14
+"L-arabinitol 4-dehydrogenase" : "L-lyxitol" + "NAD+" -> "L-xylulose" + "NADH" | 78 uM, 200 uM - 1800;	// 0-14
+"L-iditol 2-dehydrogenase" : "D-allitol" + "NAD+" -> "Fructose" + "NADH" | 1.5 mM, 600 uM - 2;	// 0-14
+"L-iditol 2-dehydrogenase" : "4-fluoro-D-sorbitol" + "NAD+" -> "4-fluoro-D-fructose" + "NADH" | 11.7 mM, 600 uM - 354;	// 0-14
+"L-iditol 2-dehydrogenase" : "3-fluoro-D-sorbitol" + "NAD+" -> "3-fluoro-D-fructose" + "NADH" | 15.5 mM, 600 uM - 350;	// 0-14
+"L-iditol 2-dehydrogenase" : "4-deoxy-D-sorbitol" + "NAD+" -> "4-deoxy-D-fructose" + "NADH" | 26.4 mM, 600 uM - 129;	// 0-14
+"inositol 2-dehydrogenase" : "inositol" + "NAD+" -> "2,3,4,5,6-pentahydroxycyclohexanone" + "NADH" | 4 mM, 300 uM - 34;	// 0-14
+"inositol 2-dehydrogenase" : "inositol" + "NAD+" -> "inosose" + "NADH" | 4 mM, 300 uM - 34;	// 0-14
+"histidinol dehydrogenase" : "L-histidinal" + "NAD+" -> "His" + "NADH" | 3.7 uM, 700 uM - 3.6;	// 0-14
+"quinate dehydrogenase" : "shikimate" + "NAD+" -> "dehydroshikimate" + "NADPH" | 10.2 mM, 870 uM - 30.1;	// 0-14
+"quinate dehydrogenase" : "quinate" + "NAD+" -> "dehydroquinate" + "NADH" | 2.4 mM, 870 uM - 50.8;	// 0-14
+"shikimate dehydrogenase" : "shikimate" + "NAD+" -> "dehydroshikimate" + "NADH" | 4.6 uM, 5.4 mM - 307;	// 0-14
+"shikimate dehydrogenase" : "quinate" + "NAD+" -> "dehydroquinate" + "NADH" | 783 uM, 572 uM - 37.7;	// 0-14
+"L-lactate dehydrogenase" : "L-Lactate" + "NAD+" -> "pyruvate" + "NADH" | 47 uM, 180 uM - 40;	// 0-14
+"3-hydroxybutyrate dehydrogenase" : "D-3-hydroxybutyrate" + "NAD+" -> "Acetoacetate" + "NADH" | 500 uM, 64 uM - 500;	// 6.5-8.5
+"3-hydroxyisobutyrate dehydrogenase" : "Ser" + "NAD+" -> "3-oxo-L-alanine" + "NADH" | 117.5 mM, 164 uM - 47.55;	// 8-10
+"3-hydroxyisobutyrate dehydrogenase" : "hydroxybutyrate" + "NAD+" -> "3-oxopropanoate" + "NADH" | 2.09 mM, 164 uM - 10.8;	// 8-10
+"3-hydroxyisobutyrate dehydrogenase" : "D-3-hydroxyisobutyrate" + "NAD+" -> "oxoisobutanoate" + "NADH" | 120 uM, 164 uM - 80.79;	// 8-10
+"3-hydroxyisobutyrate dehydrogenase" : "methyl (2S)-3-hydroxy-2-methylpropanoate" + "NAD+" -> "methyl (2S)-2-methyl-3-oxopropanoate" + "NADH" | 25.14 mM, 164 uM - 35.76;	// 8-10
+"3-hydroxyisobutyrate dehydrogenase" : "methyl DL-serine" + "NAD+" -> "methyl 3-oxo-DL-alanine" + "NADH" | 24.18 mM, 164 uM - 6.62;	// 8-10
+"3-hydroxyacyl-CoA dehydrogenase" : "androsterone" + "NAD+" -> "androstandione" + "NADH" | 45 uM, 50 uM - 0.82;	// 0-14
+"3-hydroxyacyl-CoA dehydrogenase" : "estrogen" + "NAD+" -> "estrone" + "NADH" | 43 uM, 50 uM - 0.011;	// 0-14
+"3-hydroxyacyl-CoA dehydrogenase" : "L-3-hydroxybutyryl-CoA" + "NAD+" -> "acetoacetyl-CoA" + "NADH" | 0.058 uM, 50 uM - 1420;	// 0-14
+"malate dehydrogenase" : "L-malate" + "NAD+" -> "oxalacetate" + "NADH" | 100 uM, 42 uM - 47;	// 0-14
+"malate dehydrogenase" : "malate" + "NAD+" -> "oxalacetate" + "NADH" | 1.35 mM, 152 uM - 250;	// 0-14
+"malate dehydrogenase (oxaloacetate-decarboxylating)" : "L-malate" + "NAD+" -> "pyruvate" + "NADH" | 420 uM, 97 uM - 134.4;	// 6.9-8
+"malate dehydrogenase (decarboxylating)" : "L-malate" + "NAD+" -> "pyruvate" + "NADH" | 15 mM, 110 uM - 480;	// 0-14
+"malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)" : "L-malate" + "NAD+" -> "pyruvate" + "NADH" | 7 mM, 900 uM - 617;	// 6.8-8
+"isocitrate dehydrogenase (NAD+)" : "isocitrate" + "NAD+" -> "oxoglutarate" + "NADH" | 16.4 uM, 77.1 uM - 14.8;	// 0-14
+"isocitrate dehydrogenase (NADP+)" : "isocitrate" + "NAD+" -> "oxoglutarate" + "NADH" | 40 uM, 144 uM - 0.005;	// 0-14
+"glucose 1-dehydrogenase [NAD(P)+]" : "xylose" + "NAD+" -> "D-xylonolactone" + "NADH" | 148 mM, 670 uM - 0.5;	// 6-9.5
+"glucose 1-dehydrogenase [NAD(P)+]" : "glucose" + "NAD+" -> "glucarolactone" + "NADH" | 170 uM, 3.3 mM - 29;	// 0-14
+"glucose 1-dehydrogenase [NAD(P)+]" : "a sugar" + "NAD+" -> "glucarolactone" + "NADH" | 170 uM, 3.3 mM - 68.23;	// 0-14
+"D-galactose 1-dehydrogenase" : "galactose" + "NAD+" -> "D-galatonolactone" + "NADH" | 260 uM, 250 uM - 12;	// 0-14
+"D-galactose 1-dehydrogenase" : "galactose" + "NAD+" -> "D-galactono-1,4-lactone" + "NADH" | 260 uM, 250 uM - 12;	// 0-14
+"D-galactose 1-dehydrogenase" : "L-Arabinose" + "NAD+" -> "L-arabinolactone" + "NADH" | 500 uM, 250 uM - 45;	// 0-14
+"glucose-6-phosphate dehydrogenase (NADP+)" : "Glucose 6-phosphate" + "NAD+" -> "6-phosphoglucono-1,5-lactone" + "NADH" | 19 uM, 12 mM - 3500;	// 6-8.5
+"3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)" : "cholate" + "NAD+" -> "3-dehydrocholate" + "NADH" | 31 uM, 640 uM - 35;	// 8.5-11
+"3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)" : "taurocholate" + "NAD+" -> "7alpha,12alpha-dihydroxy-5beta-cholan-3-one-24-oyl-taurine" + "NADH" | 43 uM, 640 uM - 74;	// 8.5-11
+"3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)" : "chenodeoxycholate" + "NAD+" -> "3-dehydrocholate" + "NADH" | 63 uM, 640 uM - 76;	// 8.5-11
+"3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)" : "lithocholate" + "NAD+" -> "3-oxo-5beta-cholanate" + "NADH" | 68 uM, 640 uM - 0.217;	// 8.5-11
+"3alpha-hydroxysteroid 3-dehydrogenase (Si-specific)" : "glycocholate" + "NAD+" -> "N-[7alpha,12-alpha-3,24-dioxo-5beta-cholan-24-yl]glycine" + "NADH" | 38 uM, 640 uM - 77;	// 8.5-11
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "(S)-indanol" + "NAD+" -> "indanon" + "NADH" | 1.2 uM, 23 uM - 0.028;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "S-tetralol" + "NAD+" -> "tetralone" + "NADH" | 1.5 uM, 23 uM - 0.025;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "estrogen" + "NAD+" -> "estrone" + "NADH" | 0.35 uM, 110 uM - 3.9;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "testosterone" + "NAD+" -> "androstendione" + "NADH" | 170 uM, 110 uM - 0.0757;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "testosterone" + "NAD+" -> "androstendione" + "NADPH" | 8.1 uM, 23 uM - 0.0078;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "dihydrotestosterone" + "NAD+" -> "5alpha-androstanedione" + "NADH" | 0.25 uM, 110 uM - 2.4;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "geraniol" + "NAD+" -> "citral" + "NADH" | 4.1 uM, 23 uM - 0.023;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "nerol" + "NAD+" -> "neral" + "NADH" | 11 uM, 23 uM - 0.023;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "farnesol" + "NAD+" -> "farnesal" + "NADH" | 1.2 uM, 23 uM - 0.018;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "20alpha-dihydroprogesterone" + "NAD+" -> "4-pregnen-3alpha,20beta-diol" + "NADH" | 0.53 uM, 110 uM - 0.78;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "geranylgeraniol" + "NAD+" -> "geranylgeranial" + "NADH" | 1 uM, 23 uM - 0.008;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "Iso-pregnanolone" + "NAD+" -> "5-pregnan-3,20-dione" + "NADH" | 3.9 uM, 23 uM - 0.013;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "(R)-alpha-tetralol" + "NAD+" -> "tetralone" + "NADH" | 28 uM, 23 uM - 0.022;	// 0-14
+"3(or 17)beta-hydroxysteroid dehydrogenase" : "beta-ionol" + "NAD+" -> "beta-ionone" + "NADH" | 1 uM, 23 uM - 0.022;	// 0-14
+"ribitol 2-dehydrogenase" : "Xylitol" + "NAD+" -> "xylulose" + "NADH" | 273 mM, 2.36 mM - 177.2;	// 0-14
+"ribitol 2-dehydrogenase" : "L-lyxitol" + "NAD+" -> "L-xylulose" + "NADH" | 147 mM, 100 uM - 28;	// 0-14
+"ribitol 2-dehydrogenase" : "ribitol" + "NAD+" -> "ribulose" + "NADH" | 8 mM, 100 uM - 299;	// 0-14
+"mannitol 2-dehydrogenase" : "mannitol" + "NAD+" -> "Fructose" + "NADH" | 300 uM, 310 uM - 15.9;	// 0-14
+"mannitol 2-dehydrogenase" : "arabitol" + "NAD+" -> "xylulose" + "NADH" | 163 mM, 110 uM - 162;	// 6-10
+"mannitol 2-dehydrogenase" : "D-gulitol" + "NAD+" -> "L-Sorbose" + "NADH" | 680 mM, 110 uM - 60;	// 6-10
+"alcohol dehydrogenase [NAD(P)+]" : "1-phenylethanol" + "NAD+" -> "Acetophenone" + "NADH" | 244 mM, 89 uM - 35.7;	// 0-14
+"3-isopropylmalate dehydrogenase" : "malate" + "NAD+" -> "pyruvate" + "NADH" | 32.6 uM, 62 uM - 0.19;	// 0-14
+"3-isopropylmalate dehydrogenase" : "malate" + "NAD+" -> "oxalacetate" + "NADH" | 390 uM, 400 uM - 4;	// 0-14
+"3-isopropylmalate dehydrogenase" : "(2R,3S)-3-isopropylmalate" + "NAD+" -> "2-oxoisocaproate" + "NADH" | 26 uM, 800 uM - 28;	// 0-14
+"3-isopropylmalate dehydrogenase" : "(2R,3S)-3-isopropylmalate" + "NAD+" -> "D-3-isopropyl-2-oxosuccinate" + "NADH" | 22 uM, 140 uM - 220;	// 0-14
+"3-isopropylmalate dehydrogenase" : "isopropylmalate" + "NAD+" -> "2-oxoisocaproate" + "NADH" | 9 uM, 171 uM - 0.371;	// 0-14
+"3-isopropylmalate dehydrogenase" : "ethylmalate" + "NAD+" -> "2-oxovalerate" + "NADH" | 13 uM, 800 uM - 38;	// 0-14
+"3-isopropylmalate dehydrogenase" : "ethylmalate" + "NAD+" -> "2-formylbutanoate" + "NADH" | 90 uM, 321 uM - 70;	// 0-14
+"3-isopropylmalate dehydrogenase" : "D-3-methylmalate" + "NAD+" -> "D-3-methyl-2-oxosuccinate" + "NADH" | 3.7 uM, 400 uM - 3.5;	// 0-14
+"3-isopropylmalate dehydrogenase" : "3-methylmalate" + "NAD+" -> "2-oxobutyrate" + "NADH" | 50 uM, 800 uM - 28;	// 0-14
+"3-isopropylmalate dehydrogenase" : "3-isoamylmalate" + "NAD+" -> "3-isoamylpyruvate" + "NADH" | 110 uM, 800 uM - 20;	// 0-14
+"3-isopropylmalate dehydrogenase" : "3-tert-butylmalate" + "NAD+" -> "3-tert-butylpyruvate" + "NADH" | 74 uM, 800 uM - 2.7;	// 0-14
+"3-isopropylmalate dehydrogenase" : "tert-butylmalate" + "NAD+" -> "tert-butylpyruvate" + "NADH" | 214 uM, 321 uM - 6;	// 0-14
+"3-isopropylmalate dehydrogenase" : "D-3-ethylmalate" + "NAD+" -> "D-3-ethyl-2-oxosuccinate" + "NADH" | 1.1 uM, 400 uM - 3.1;	// 0-14
+"3-isopropylmalate dehydrogenase" : "D-3-isobutylmalate" + "NAD+" -> "D-3-isobutyl-2-oxosuccinate" + "NADH" | 1.5 uM, 400 uM - 3.1;	// 0-14
+"3-isopropylmalate dehydrogenase" : "D-3-t-butylmalate" + "NAD+" -> "D-3-t-butyl-2-oxosuccinate" + "NADH" | 2.3 uM, 400 uM - 0.96;	// 0-14
+"3-isopropylmalate dehydrogenase" : "D-3-isopentylmalate" + "NAD+" -> "D-3-isopentyl-2-oxosuccinate" + "NADH" | 5.8 uM, 400 uM - 2.7;	// 0-14
+"homoisocitrate dehydrogenase" : "homoisocitrate" + "NAD+" -> "2-oxoadipate" + "NADH" | 18 uM, 300 uM - 46.2;	// 6.5-8.5
+"aryl-alcohol dehydrogenase" : "benzylalcohol" + "NAD+" -> "ArCHO" + "NADH" | 46 uM, 15.2 uM - 63;	// 0-14
+"aryl-alcohol dehydrogenase" : "cinnamic alcohol" + "NAD+" -> "cinnamaldehyde" + "NADH" | 93 uM, 15.2 uM - 43;	// 0-14
+"aryl-alcohol dehydrogenase" : "p-anisalcohol" + "NAD+" -> "anisaldehyde" + "NADH" | 57 uM, 15.2 uM - 116;	// 0-14
+"aryl-alcohol dehydrogenase" : "coniferol" + "NAD+" -> "coniferaldehyde" + "NADH" | 280 uM, 400 uM - 25.8;	// 0-14
+"aryl-alcohol dehydrogenase" : "perillyl alcohol" + "NAD+" -> "perillaldehyde" + "NADH" | 18 uM, 15.2 uM - 83;	// 0-14
+"aryl-alcohol dehydrogenase" : "prenol" + "NAD+" -> "prenal" + "NADH" | 17 uM, 15.2 uM - 41;	// 0-14
+"aryl-alcohol dehydrogenase (NADP+)" : "(R)-phenylethanol" + "NAD+" -> "Acetophenone" + "NADH" | 5.5 mM, 800 uM - 0.0047;	// 0-14
+"tartrate dehydrogenase" : "D-malate" + "NAD+" -> "pyruvate" + "NADH" | 50 uM, 90 uM - 13.3;	// 7-9
+"tartrate dehydrogenase" : "meso-tartrate" + "NAD+" -> "oxaloglycolate" + "NADH" | 60 uM, 90 uM - 0.617;	// 7-9
+"phosphoglycerate dehydrogenase" : "D-3-phosphoglycerate" + "NAD+" -> "3-phosphooxypyruvate" + "NADH" | 3 uM, 22 uM - 41;	// 0-14
+"L-threonine 3-dehydrogenase" : "Thr" + "NAD+" -> "L-2-amino-3-ketobutyrate" + "NADH" | 13 uM, 10 uM - 7.2;	// 9.2-12
+"pyridoxal 4-dehydrogenase" : "D-Arabinose" + "NAD+" -> "D-arabinolactone" + "NADH" | 910 uM, 50 uM - 175;	// 0-14
+"pyridoxal 4-dehydrogenase" : "pyridoxal" + "NAD+" -> "4-pyridoxolactone" + "NADH" | 91 uM, 280 uM - 149;	// 8.6-10
+"pyridoxal 4-dehydrogenase" : "L-Fucose" + "NAD+" -> "fuconolactone" + "NADH" | 410 uM, 50 uM - 125;	// 0-14
+"carnitine 3-dehydrogenase" : "carnitine" + "NAD+" -> "3-dehydrocarnitine" + "NADH" | 1.07 mM, 210 uM - 0.236;	// 0-14
+"glucose 1-dehydrogenase (NADP+)" : "glucose" + "NAD+" -> "glucarolactone" + "NADH" | 2.2 mM, 1.3 mM - 0.5;	// 0-14
+"D-threo-aldose 1-dehydrogenase" : "D-Arabinose" + "NAD+" -> "D-arabinolactone" + "NADH" | 40 mM, 330 uM - 175;	// 0-14
+"15-hydroxyprostaglandin dehydrogenase (NAD+)" : "prostaglandin E2" + "NAD+" -> "15-oxoprostaglandin E2" + "NADH" | 13 uM, 30 uM - 73;	// 6-10
+"3beta-hydroxy-DELTA5-steroid dehydrogenase" : "dehydroandrosterone" + "NAD+" -> "5-androstenedione" + "NADH" | 221 uM, 172 uM - 11.6;	// 0-14
+"3beta-hydroxy-DELTA5-steroid dehydrogenase" : "pregnenolone" + "NAD+" -> "progesterone" + "NADH" | 23 uM, 172 uM - 1.48;	// 0-14
+"11beta-hydroxysteroid dehydrogenase" : "11beta,21-dihydroxypregn-4-en-3,20-dione" + "NAD+" -> "21-hydroxy-pregn-4-en-3,11,20-trione" + "NADH" | 1.1 uM, 91 uM - 8.83e-05;	// 0-14
+"ureidoglycolate dehydrogenase" : "(-)-ureidoglycolate" + "NAD+" -> "oxalurate" + "NADH" | 1.06 mM, 370 uM - 1.37;	// 0-14
+"7alpha-hydroxysteroid dehydrogenase" : "cholate" + "NAD+" -> "7-ketocholic acid" + "NADH" | 800 uM, 302 uM - 20.1;	// 6-10
+"7alpha-hydroxysteroid dehydrogenase" : "taurocholate" + "NAD+" -> "2[[3alpha,12alpha-dihydroxy-7,24-dioxo-5beta-cholan-24-yl]amino]ethane sulfonic acid" + "NADH" | 1 mM, 302 uM - 3.13;	// 6-10
+"7alpha-hydroxysteroid dehydrogenase" : "chenodeoxycholate" + "NAD+" -> "7-oxolithocholic acid" + "NADH" | 60 uM, 302 uM - 8.18;	// 6-10
+"7alpha-hydroxysteroid dehydrogenase" : "glycocholate" + "NAD+" -> "N-[3alpha,12alpha-dihydroxy-7,24-dioxo-5beta-cholan-24-yl]glycine" + "NADH" | 1 mM, 302 uM - 0.417;	// 6-10
+"7alpha-hydroxysteroid dehydrogenase" : "taurochenodeoxycholate" + "NAD+" -> "3alpha-hydroxy-7-keto-5beta-cholanoyl taurine" + "NADH" | 190 uM, 302 uM - 3.43;	// 6-10
+"2-dehydropantoate 2-reductase" : "D-pantoate" + "NAD+" -> "ketopantoate" + "NADH" | 130 uM, 41 uM - 3.8;	// 0-14
+"D-xylose 1-dehydrogenase" : "xylose" + "NAD+" -> "D-xylonolactone" + "NADH" | 400 uM, 260 uM - 26.2;	// 0-14
+"D-xylose 1-dehydrogenase" : "L-Arabinose" + "NAD+" -> "L-arabinolactone" + "NADH" | 40 mM, 260 uM - 22.3;	// 0-14
+"D-xylose 1-dehydrogenase (NADP+, D-xylono-1,5-lactone-forming)" : "xylose" + "NAD+" -> "D-xylonolactone" + "NADH" | 15.2 mM, 5.03 mM - 14.9;	// 0-14
+"cinnamyl-alcohol dehydrogenase" : "cinnamic alcohol" + "NAD+" -> "cinnamaldehyde" + "NADH" | 110 uM, 450 uM - 43;	// 0-14
+"cinnamyl-alcohol dehydrogenase" : "propenol" + "NAD+" -> "acrolein" + "NADH" | 500 uM, 52 uM - 32.9;	// 0-14
+"1,3-propanediol dehydrogenase" : "glycerin" + "NAD+" -> "glyceral" + "NADH" | 700 mM, 370 uM - 16.3;	// 0-14
+"uronate dehydrogenase" : "glucuronate" + "NAD+" -> "D-glucaric acid 3,6-lactone" + "NADH" | 150 uM, 5.3 mM - 80;	// 0-14
+"uronate dehydrogenase" : "beta-D-GalA" + "NAD+" -> "D-glucarolactone" + "NADH" | 300 uM, 200 uM - 82;	// 5-10
+"uronate dehydrogenase" : "beta-D-GalA" + "NAD+" -> "D-galactarolactone" + "NADH" | 100 uM, 180 uM - 76;	// 5-10
+"IMP dehydrogenase" : "IMP" + "NAD+" -> "XMP" + "NADH" | 3 uM, 110 uM - 1.1;	// 5.5-9
+"3alpha-hydroxysteroid 3-dehydrogenase (Re-specific)" : "androsterone" + "NAD+" -> "5alpha-androstanedione" + "NADH" | 29 uM, 40 uM - 1.13;	// 5.5-11
+"morphine 6-dehydrogenase" : "morphine" + "NAD+" -> "Morphinone" + "NADH" | 520 uM, 20 uM - 0.49;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "(S)-indanol" + "NAD+" -> "indanon" + "NADH" | 14 uM, 9.6 uM - 0.13;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "S-tetralol" + "NAD+" -> "tetralone" + "NADH" | 61 uM, 13 uM - 0.105;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "S-tetralol" + "NAD+" -> "tetralone" + "NADPH" | 4 uM, 9.6 uM - 0.1;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "estrogen" + "NAD+" -> "estrone" + "NADH" | 2.1 uM, 9.6 uM - 0.0217;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "testosterone" + "NAD+" -> "androstendione" + "NADH" | 37 uM, 9.6 uM - 0.098;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "testosterone" + "NAD+" -> "androstendione" + "NADPH" | 1.67 uM, 20 uM - 0.0079;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "dihydrotestosterone" + "NAD+" -> "5alpha-androstanedione" + "NADH" | 7.8 uM, 9.6 uM - 0.065;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "3alpha-adiol" + "NAD+" -> "androsterone" + "NADH" | 3.1 uM, 270 uM - 0.45;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "lithocholate" + "NAD+" -> "3-oxo-5beta-cholanate" + "NADH" | 0.5 uM, 270 uM - 0.047;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "allopregnanolone" + "NAD+" -> "5-pregnan-3,20-dione" + "NADH" | 3.5 uM, 9.6 uM - 0.0072;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "geraniol" + "NAD+" -> "citral" + "NADH" | 76 uM, 13 uM - 0.0153;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "nerol" + "NAD+" -> "neral" + "NADH" | 162 uM, 13 uM - 0.115;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "farnesol" + "NAD+" -> "farnesal" + "NADH" | 11 uM, 13 uM - 0.0045;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "geranylgeraniol" + "NAD+" -> "geranylgeranial" + "NADH" | 1.2 uM, 13 uM - 0.038;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "(R)-alpha-tetralol" + "NAD+" -> "tetralone" + "NADH" | 95 uM, 13 uM - 0.0075;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "beta-ionol" + "NAD+" -> "beta-ionone" + "NADH" | 0.6 uM, 9.6 uM - 0.028;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "5beta-dihydrotestosterone" + "NAD+" -> "etiocholan-3,17-dione" + "NADH" | 4.9 uM, 270 uM - 0.367;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "morphine" + "NAD+" -> "Morphinone" + "NADH" | 520 uM, 20 uM - 0.49;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "glycolithocholate" + "NAD+" -> "3-oxo-5beta-cholanoylglycine" + "NADH" | 3 uM, 270 uM - 0.25;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "glycochenodeoxycholate" + "NAD+" -> "7alpha-hydroxy-3-oxo-5beta-cholanoyl glycine" + "NADH" | 7.5 uM, 270 uM - 0.02;	// 0-14
+"3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+)" : "allopregnenolone" + "NAD+" -> "progesterone" + "NADH" | 7.3 uM, 9.6 uM - 0.0032;	// 0-14
+"N-acetylhexosamine 1-dehydrogenase" : "GlcNAc" + "NAD+" -> "N-acetyl-D-glucosaminate" + "NADH" | 5.3 mM, 240 uM - 655;	// 0-14
+"methanol dehydrogenase" : "CH3OH" + "NAD+" -> "methanal" + "NADH" | 132 uM, 93 uM - 0.2;	// 6-10.5
+"methanol dehydrogenase" : "butanol" + "NAD+" -> "butanal" + "NADH" | 120 uM, 93 uM - 3.3;	// 6-10.5
+"D-arabinitol 2-dehydrogenase" : "Xylitol" + "NAD+" -> "xylulose" + "NADH" | 20 mM, 59 uM - 11.2;	// 4.5-9.5
+"D-arabinitol 2-dehydrogenase" : "arabitol" + "NAD+" -> "ribulose" + "NADH" | 7.1 mM, 59 uM - 11;	// 4.5-9.5
+"sn-glycerol-1-phosphate dehydrogenase" : "D-glycerol-3-phosphate" + "NAD+" -> "Glycerone phosphate" + "NADH" | 8.92 mM, 1.57 mM - 0.09;	// 0-14
+"quinate/shikimate dehydrogenase" : "shikimate" + "NAD+" -> "dehydroshikimate" + "NADH" | 20 uM, 87 uM - 237;	// 0-14
+"quinate/shikimate dehydrogenase" : "quinate" + "NAD+" -> "dehydroquinate" + "NADH" | 2.38 mM, 870 uM - 104.9;	// 0-14
+"quinate/shikimate dehydrogenase" : "quinate" + "NAD+" -> "4-dehydroquinate" + "NADH" | 9.1 uM, 12.5 uM - 0.05;	// 0-14
+"S-(hydroxymethyl)glutathione dehydrogenase" : "S-hydroxymethylglutathione" + "NAD+" -> "S-formylglutathione" + "NADH" | 38 uM, 160 uM - 1.4;	// 6.5-9.5
+"S-(hydroxymethyl)glutathione dehydrogenase" : "methanal" + "GSH" + "NAD+" -> "S-formylglutathione" + "NADH" | 310 uM, 480 uM, 120 uM - 0.267;	// 7-9
+"isocitrate-homoisocitrate dehydrogenase" : "isocitrate" + "NAD+" -> "oxoglutarate" + "NADH" | 16.4 uM, 77.1 uM - 14.8;	// 0-14
+"isocitrate-homoisocitrate dehydrogenase" : "isopropylmalate" + "NAD+" -> "2-oxoisocaproate" + "NADH" | 50 uM, 100 uM - 1.5;	// 0-14
+"isocitrate-homoisocitrate dehydrogenase" : "homoisocitrate" + "NAD+" -> "2-oxoadipate" + "NADH" | 170 uM, 100 uM - 17;	// 0-14
+"3-hydroxypropionate dehydrogenase (NADP+)" : "hydroxybutyrate" + "NAD+" -> "3-oxopropanoate" + "NADH" | 16.8 mM, 2.4 mM - 0.21;	// 7-10
+"NADP-retinol dehydrogenase" : "retinal" + "NAD+" -> "retinoate" + "NADH" | 7 uM, 4 uM - 0.002;	// 0-14
+"diacetyl reductase [(S)-acetoin forming]" : "L-2,3-butanediol" + "NAD+" -> "(S)-acetoin" + "NADH" | 7.25 mM, 340 uM - 591;	// 5-8
+"zerumbone synthase" : "10-hydroxy-alpha-humulene" + "NAD+" -> "zerumbone" + "NADH" | 28 uM, 16.1 uM - 0.1;	// 0-14
+"chanoclavine-I dehydrogenase" : "chanoclavine-I" + "NAD+" -> "chanoclavine-I aldehyde" + "NADH" | 270 uM, 1.1 mM - 0.38;	// 0-14
+"UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase" : "UDP-GlcUA" + "NAD+" -> "UDP-alpha-D-ribo-hex-3-uluronate" + "NADH" | 2.05 mM, 970 uM - 0.0021;	// 0-14
+"UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase" : "UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate" + "NAD+" -> "UDP-2-acetamido-2-deoxy-alpha-D-ribo-hex-3-uluronate" + "NADH" | 15 uM, 970 uM - 0.0039;	// 0-14
+"phosphogluconate dehydrogenase (NAD+-dependent, decarboxylating)" : "6-phosphogluconate" + "NAD+" -> "Ribulose 5-phosphate" + "NADH" | 440 uM, 64 uM - 23;	// 0-14
+"ureidoglycolate dehydrogenase (NAD+)" : "(-)-ureidoglycolate" + "NAD+" -> "oxalurate" + "NADH" | 1.06 mM, 370 uM - 1.37;	// 0-14
+"3alpha-hydroxysteroid 3-dehydrogenase" : "androsterone" + "NAD+" -> "5alpha-androstanedione" + "NADH" | 2.8 uM, 140 uM - 500;	// 0-14
+"3alpha-hydroxysteroid 3-dehydrogenase" : "2-decalol" + "NAD+" -> "2-decalone" + "NADH" | 600 uM, 140 uM - 2.2;	// 0-14
+"3alpha-hydroxysteroid 3-dehydrogenase" : "androstenol" + "NAD+" -> "5alpha-androst-16-en-3-one" + "NADH" | 1.2 uM, 140 uM - 230;	// 0-14
+"glucose-6-phosphate dehydrogenase [NAD(P)+]" : "Glucose 6-phosphate" + "NAD+" -> "6-phosphoglucono-1,5-lactone" + "NADH" | 2.5 mM, 160 uM - 522;	// 0-14
+"L-2-hydroxycarboxylate dehydrogenase [NAD(P)+]" : "pyruvate" + "NADH" -> "L-Lactate" + "NAD+" | 840 uM, 140 uM - 1.3;	// 0-14
+"L-2-hydroxycarboxylate dehydrogenase [NAD(P)+]" : "pyruvate" + "NADPH" -> "L-Lactate" + "NADP" | 840 uM, 20 uM - 1.3;	// 0-14
+"L-arabinose 1-dehydrogenase [NAD(P)+]" : "galactose" + "NAD+" -> "D-galactono-1,4-lactone" + "NADH" | 500 uM, 770 uM - 0.233;	// 0-14
+"L-arabinose 1-dehydrogenase [NAD(P)+]" : "L-Arabinose" + "NAD+" -> "L-arabinolactone" + "NADH" | 330 uM, 770 uM - 20.85;	// 0-14
+"L-arabinose 1-dehydrogenase [NAD(P)+]" : "fucose" + "NAD+" -> "D-fucono-1,4-lactone" + "NADH" | 1.3 mM, 770 uM - 110.1;	// 0-14
+"L-arabinose 1-dehydrogenase [NAD(P)+]" : "talose" + "NAD+" -> "D-talono-1,4-lactone" + "NADH" | 57.3 mM, 770 uM - 74.58;	// 0-14
+"glucose-6-phosphate dehydrogenase (NAD+)" : "Glucose 6-phosphate" + "NAD+" -> "6-phosphoglucono-1,5-lactone" + "NADH" | 5.4 mM, 180 uM - 5.4;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "cholate" + "NAD+" -> "3-oxocholate" + "NADH" | 802 uM, 17 uM - 0.27;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "taurocholate" + "NAD+" -> "3-oxotaurocholic acid" + "NADH" | 329 uM, 17 uM - 0.4;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "chenodeoxycholate" + "NAD+" -> "7-alpha-hydroxy-3-oxo-5beta-cholanate" + "NADH" | 334 uM, 17 uM - 0.25;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "glycocholate" + "NAD+" -> "N-[7alpha,12-alpha-3,24-dioxo-5beta-cholan-24-yl]glycine" + "NADH" | 383 uM, 17 uM - 0.42;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "choloyl-CoA" + "NAD+" -> "3-oxocholoyl CoA" + "NADH" | 32 uM, 17 uM - 0.17;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "deoxycholoyl-CoA" + "NAD+" -> "3-oxodeoxycholoyl-CoA" + "NADH" | 17 uM, 17 uM - 0.87;	// 0-14
+"3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase" : "lithocholoyl-CoA" + "NAD+" -> "3-oxolithocholoyl-CoA" + "NADH" | 18 uM, 17 uM - 0.73;	// 0-14
+"noscapine synthase" : "narcotine hemiacetal" + "NAD+" -> "noscapine" + "NADH" | 268 uM, 33.1 uM - 0.59;	// 0-14
+"pseudoephedrine dehydrogenase" : "2-chloro-1-phenyl-1-propane" + "NAD+" -> "(R,S)-2-chloro-1-phenylpropan-1-ol" + "NADH" | 8.74 mM, 3.4 mM - 3.8;	// 0-14
+"pseudoephedrine dehydrogenase" : "(+)-(1S,2S)-pseudoephedrine" + "NAD+" -> "(S)-2-(methylamino)-1-phenylpropan-1-one" + "NADH" | 260 uM, 3.4 mM - 3.77;	// 0-14
+"(1R,2S)-ephedrine 1-dehydrogenase" : "2-chloro-1-phenyl-1-propane" + "NAD+" -> "(R,S)-2-chloro-1-phenylpropan-1-ol" + "NADH" | 20 uM, 110 uM - 7.31;	// 0-14
+"(1R,2S)-ephedrine 1-dehydrogenase" : "phenylpropanedione" + "NAD+" -> "L-phenylacetylcarbinol" + "NADH" | 60 uM, 110 uM - 2.75;	// 0-14
+"(1R,2S)-ephedrine 1-dehydrogenase" : "propiophenone" + "NAD+" -> "(R)-1-phenylpropanol" + "NADH" | 10 uM, 110 uM - 0.77;	// 0-14
+"(1R,2S)-ephedrine 1-dehydrogenase" : "methylbenzoylformate" + "NAD+" -> "methyl (R)-mandelate" + "NADH" | 190 uM, 110 uM - 109.18;	// 0-14
+"(1R,2S)-ephedrine 1-dehydrogenase" : "2-aminoacetophenone" + "NAD+" -> "(1R)-2-amino-1-phenylethan-1-ol" + "NADH" | 600 uM, 110 uM - 5.44;	// 0-14
+"(1R,2S)-ephedrine 1-dehydrogenase" : "ethyl 2-chlorobenzoylacetate" + "NAD+" -> "ethyl 2-chloro-3-hydroxy-3-phenylpropanoate" + "NADH" | 60 uM, 110 uM - 9.89;	// 0-14
+"D-xylose 1-dehydrogenase (NADP+, D-xylono-1,4-lactone-forming)" : "xylose" + "NAD+" -> "D-xylonolactone" + "NADH" | 4.7 mM, 360 uM - 58;	// 0-14
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" | 840 uM - 83.1;	// 0-14
+"pyranose oxidase" : "L-Sorbose" -> "5-keto-D-fructose" + "H2O2" | 23.5 mM - 58.8;	// 0-14
+"(S)-2-hydroxy-acid oxidase" : "L-Lactate" -> "pyruvate" + "H2O2" | 340 uM - 0.52;	// 0-14
+"glycerol-3-phosphate oxidase" : "glycerophosphate" -> "Glycerone phosphate" + "H2O2" | 1.9 mM - 17.9;	// 0-14
+"D-sorbitol dehydrogenase (acceptor)" : "D-allitol" + "NADP" -> "L-Sorbose" + "NADPH" | 30 mM, 88.2 uM - 2.57;	// 7.5-11
+"aldehyde dehydrogenase (NAD+)" : "methanal" + "NAD+" -> "HCOOH" + "NADH" | 320 uM, 60 uM - 32;	// 8-9.5
+"aldehyde dehydrogenase [NAD(P)+]" : "glycoaldehyde" + "NAD+" -> "Glycolate" + "NADH" | 50 uM, 30 uM - 18.65;	// 0-14
+"aldehyde dehydrogenase [NAD(P)+]" : "2E-hexenal" + "NAD+" -> "(E)-hex-2-enoate" + "NADH" | 100 uM, 94 uM - 53;	// 0-14
+"glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)" : "D-Glyceraldehyde 3-phosphate" + "NAD+" -> "D-3-phosphoglycerate" + "NADH" | 1.45 mM, 57 uM - 24.51;	// 0-14
+"aminomuconate-semialdehyde dehydrogenase" : "5-chloro-2-hydroxymuconic semialdehyde" + "NAD+" -> "5-chloro-2-hydroxymuconate" + "NADH" | 83 uM, 46 uM - 2300;	// 0-14
+"butanal dehydrogenase" : "Propanal" + "NAD+" -> "propanoyl-CoA" + "NADH" | 6.7 mM, 160 uM - 1.8;	// 0-14
+"erythrose-4-phosphate dehydrogenase" : "D-erythrose 4-phosphate" + "NAD+" -> "4-phosphoerythronate" + "NADH" | 800 uM, 500 uM - 3.5;	// 0-14
+"D-glyceraldehyde dehydrogenase (NADP+)" : "D-glyceraldehyde" + "NAD+" -> "D-glycerate" + "NADH" | 200 uM, 16.7 mM - 26;	// 6-10
+"prephenate dehydrogenase" : "Prephenate" + "NAD+" -> "hydroxyphenylpyruvate" + "NADH" | 410 uM, 280 uM - 170.4;	// 0-14
+"prephenate dehydrogenase" : "arogenate" + "NAD+" -> "tyr" + "NADH" | 17 uM, 25 uM - 3;	// 0-14
+"prephenate dehydrogenase (NADP+)" : "Prephenate" + "NAD+" -> "hydroxyphenylpyruvate" + "NADH" | 690 uM, 3.3 mM - 13;	// 0-14
+"dihydroorotate dehydrogenase (NAD+)" : "L-dihydroorotate" + "NAD+" -> "orotate" + "NADH" | 90 uM, 62 uM - 0.73;	// 0-14
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "cis-biphenyl 2,3-dihydrodiol" + "NAD+" -> "3-phenylcatechol" + "NADH" | 110 uM, 29 uM - 51.7;	// 0-14
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "3,4-dihydro-3,4-dihydroxy-2,2',5,5'-tetrachlorobiphenyl" + "NAD+" -> "3,4-dihydroxy-2,2',5,5'-tetrachlorobiphenyl" + "NADH" | 62 uM, 29 uM - 0.1;	// 0-14
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "chrysene 3,4-dihydrodiol" + "NAD+" -> "chrysene 3,4-diol" + "NADH" | 5.7 uM, 160 uM - 20.3;	// 7-9.5
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "cis-naphthalene 1,2-dihydrodiol" + "NAD+" -> "naphthacatechol" + "NADH" | 20 uM, 29 uM - 149;	// 0-14
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "phenanthrene dihydrodiol" + "NAD+" -> "phenanthrene 3,4-diol" + "NADH" | 1.85 uM, 160 uM - 16.7;	// 7-9.5
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "anthracene 1,2-dihydrodiol" + "NAD+" -> "anthracene 1,2-diol" + "NADH" | 2 uM, 160 uM - 21.6;	// 7-9.5
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase" : "benzo(a)anthracene 1,2-dihydrodiol" + "NAD+" -> "benzo(a)anthracene 1,2-diol" + "NADH" | 7.1 uM, 160 uM - 9.1;	// 7-9.5
+"chlorobenzene dihydrodiol dehydrogenase" : "3,6-dichlorobenzene cis-dihydrodiol" + "NAD+" -> "3,6-dichlorocatechol" + "NADH" | 210 uM, 5 uM - 14.5;	// 0-14
+"L-aspartate oxidase" : "Asp" -> "iminoaspartate" + "H2O2" | 13.3 mM - 0.78;	// 8.8-12
+"glycine oxidase" : "Gly" -> "2-iminoacetate" + "H2O2" | 3.03 mM - 39;	// 0-14
+"methylenetetrahydrofolate dehydrogenase (NAD+)" : "NAD+" -> "NADH" | 302 uM - 6.4;	// 0-14
+"methylenetetrahydrofolate dehydrogenase (NAD+)" : "methylentetrahydrofolate" + "NAD+" -> "5,10-methenyltetrahydropteroylglutamate" + "NADH" | 133 uM, 202 uM - 1.5;	// 0-14
+"methylenetetrahydrofolate dehydrogenase (NAD+)" : "L-5,10-methylenetetrahydrofolate" + "NAD+" -> "5,10-methenyltetrahydrofolate" + "NADH" | 260 uM, 4 mM - 1.63;	// 0-14
+"NAD(P)+ transhydrogenase (Re/Si-specific)" : "NADPH" + "NAD+" -> "NADP" + "NADH" | 20 uM, 28 uM - 4808;	// 4.7-6.7
+"dihydrolipoyl dehydrogenase" : "dihydrolipoamide" + "NAD+" -> "lipoamide" + "NADH" | 160 uM, 160 uM - 899;	// 0-14
+"hydrogen dehydrogenase" : "NAD+" -> "NADH" | 37 uM - 120;	// 0-14
+"lactate 2-monooxygenase" : "L-Lactate" -> "pyruvate" + "H2O2" | 20 uM - 13.2;	// 0-14
+"formate dehydrogenase" : "HCOOH" + "NAD+" -> "NADH" | 170 uM, 160 uM - 10;	// 0-14
+"formate dehydrogenase" : "HCOOH" + "NAD+" -> "H2CO3" + "NADH" | 6 mM, 220 uM - 1.1;	// 5.5-9.5
+"alpha,alpha-trehalose synthase" : "trehalose" + "ADP" -> "ADP-Glc" + "glucose" | 25.24 mM, 14.19 mM - 1.2;	// 0-14
+"tyrosine transaminase" : "Trp" + "oxalacetate" -> "indolpyruvate" + "Gly" | 7.83 mM, 56.13 mM - 0.36;	// 0-14
+"aromatic-amino-acid transaminase" : "Trp" + "oxalacetate" -> "indolpyruvate" + "Asp" | 600 uM, 120 uM - 3.5;	// 6-9.6
+"aromatic-amino-acid transaminase" : "Phe" + "oxalacetate" -> "phenylpyruvate" + "Asp" | 60 uM, 3.8 mM - 0.04;	// 6-9.5
+"NAD+ kinase" : "NAD+" + "ATP" -> "NADP" + "ADP" | 1.43 mM, 160 uM - 2.7;	// 0-14
+"NAD+ kinase" : "ADP" + "NAD+" -> "AMP" + "NADP" | 4.3 mM, 670 uM - 2.3;	// 0-14
+"NAD+ kinase" : "ATP" + "NAD+" -> "ADP" + "NADP" | 180 uM, 110 uM - 500.6;	// 0-14
+"NAD+ kinase" : "(phosphate)20" + "NAD+" -> "polyphosphate(19)" + "NADP" | 5.9 mM, 670 uM - 7.8;	// 0-14
+"NAD+ kinase" : "polyphosphate25" + "NAD+" -> "polyphosphate(24)" + "NADP" | 17.2 mM, 670 uM - 7.3;	// 0-14
+"NAD+ kinase" : "polyphosphate(45)" + "NAD+" -> "polyphosphate(44)" + "NADP" | 14.1 mM, 670 uM - 3.4;	// 0-14
+"NAD+ kinase" : "polyphosphate(65)" + "NAD+" -> "polyphosphate(64)" + "NADP" | 18.4 mM, 670 uM - 3.4;	// 0-14
+"NAD+ kinase" : "polyphosphate(75)" + "NAD+" -> "polyphosphate(74)" + "NADP" | 3.1 mM, 670 uM - 1.8;	// 0-14
+"NADH kinase" : "ATP" + "NAD+" -> "ADP" + "NADP" | 62 uM, 2.39 mM - 0.022;	// 0-14

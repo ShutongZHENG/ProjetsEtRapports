@@ -1,0 +1,94 @@
+Entre: lactose
+Sortie: H2O2
+Distance: 4
+Nombre de traces: 15
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "fucosyllactose" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "GDP" -> "GDP-Glc" + "glucose" 
+"cellobiose phosphorylase" : "alpha-D-glucose 1 phosphate" + "glucose" -> "cellobiose" + "phosphate" 
+"cellobiose dehydrogenase (acceptor)" : "cellobiose" -> "cellobionolactone" + "H2O2" 
+-----------------
+
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "fucosyllactose" 
+"phosphoenolpyruvate carboxykinase (GTP)" : "GDP" + "phosphoenolpyruvate" -> "gTP" + "oxalacetate" 
+"aromatic-amino-acid transaminase" : "Trp" + "oxalacetate" -> "indolpyruvate" + "Asp" 
+"L-aspartate oxidase" : "Asp" -> "iminoaspartate" + "H2O2" 
+-----------------
+
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "fucosyllactose" 
+"phosphoenolpyruvate carboxykinase (GTP)" : "GDP" + "phosphoenolpyruvate" -> "gTP" + "oxalacetate" 
+"aromatic-amino-acid transaminase" : "Phe" + "oxalacetate" -> "phenylpyruvate" + "Asp" 
+"L-aspartate oxidase" : "Asp" -> "iminoaspartate" + "H2O2" 
+-----------------
+
+"N-acetyllactosaminide 3-alpha-galactosyltransferase" : "UDP-GalNAc" + "lactose" -> "UDP" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "UDP" -> "UDP-Glc" + "glucose" 
+"cellobiose phosphorylase" : "alpha-D-glucose 1 phosphate" + "glucose" -> "cellobiose" + "phosphate" 
+"cellobiose dehydrogenase (acceptor)" : "cellobiose" -> "cellobionolactone" + "H2O2" 
+-----------------
+
+"4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "3'-fucosyllactose" 
+"phosphoenolpyruvate carboxykinase (GTP)" : "GDP" + "phosphoenolpyruvate" -> "gTP" + "oxalacetate" 
+"aromatic-amino-acid transaminase" : "Trp" + "oxalacetate" -> "indolpyruvate" + "Asp" 
+"L-aspartate oxidase" : "Asp" -> "iminoaspartate" + "H2O2" 
+-----------------
+
+"4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "3'-fucosyllactose" 
+"phosphoenolpyruvate carboxykinase (GTP)" : "GDP" + "phosphoenolpyruvate" -> "gTP" + "oxalacetate" 
+"aromatic-amino-acid transaminase" : "Phe" + "oxalacetate" -> "phenylpyruvate" + "Asp" 
+"L-aspartate oxidase" : "Asp" -> "iminoaspartate" + "H2O2" 
+-----------------
+
+"beta-galactoside alpha-(2,6)-sialyltransferase" : "CMP-NeuAc" + "lactose" -> "CMP" + "6'-sialyllactose" 
+"UMP/CMP kinase" : "ATP" + "CMP" -> "ADP" + "CDP" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "ADP" -> "ADP-Glc" + "glucose" 
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" 
+-----------------
+
+"beta-galactoside alpha-(2,6)-sialyltransferase" : "CMP-NeuAc" + "lactose" -> "CMP" + "6'-sialyllactose" 
+"(d)CMP kinase" : "gTP" + "CMP" -> "GDP" + "CDP" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "GDP" -> "GDP-Glc" + "glucose" 
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" 
+-----------------
+
+"beta-galactoside alpha-(2,6)-sialyltransferase" : "CMP-NeuAc" + "lactose" -> "CMP" + "6'-sialyllactose" 
+"(d)CMP kinase" : "ATP" + "CMP" -> "ADP" + "CDP" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "ADP" -> "ADP-Glc" + "glucose" 
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" 
+-----------------
+
+"4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase" : "GDP-L-fucose" + "lactose" -> "GDP" + "L-Fuc-alpha-(1->3)-[D-Gal-beta(1->4)]-D-Glc" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "GDP" -> "GDP-Glc" + "glucose" 
+"cellobiose phosphorylase" : "alpha-D-glucose 1 phosphate" + "glucose" -> "cellobiose" + "phosphate" 
+"cellobiose dehydrogenase (acceptor)" : "cellobiose" -> "cellobionolactone" + "H2O2" 
+-----------------
+
+"phloretin hydrolase" : "5'-O-beta-D-glucosylpyridoxine" + "lactose" -> "pyridoxol" + "a sugar" + "pyridoxinedisaccharide" 
+"glucose 1-dehydrogenase [NAD(P)+]" : "a sugar" + "NAD+" -> "glucarolactone" + "NADH" 
+"glycerol-3-phosphate dehydrogenase (NAD+)" : "Glycerone phosphate" + "NADH" -> "glycerophosphate" + "NAD+" 
+"glycerol-3-phosphate oxidase" : "glycerophosphate" -> "Glycerone phosphate" + "H2O2" 
+-----------------
+
+"phloretin hydrolase" : "5'-O-beta-D-glucosylpyridoxine" + "lactose" -> "pyridoxol" + "a sugar" + "pyridoxinedisaccharide" 
+"glucose 1-dehydrogenase [NAD(P)+]" : "a sugar" + "NAD+" -> "glucarolactone" + "NADH" 
+"L-2-hydroxycarboxylate dehydrogenase [NAD(P)+]" : "pyruvate" + "NADH" -> "L-Lactate" + "NAD+" 
+"lactate 2-monooxygenase" : "L-Lactate" -> "pyruvate" + "H2O2" 
+-----------------
+
+"phloretin hydrolase" : "5'-O-beta-D-glucosylpyridoxine" + "lactose" -> "pyridoxol" + "a sugar" + "pyridoxinedisaccharide" 
+"glucose 1-dehydrogenase [NAD(P)+]" : "a sugar" + "NADP" -> "glucarolactone" + "NADPH" 
+"L-2-hydroxycarboxylate dehydrogenase [NAD(P)+]" : "pyruvate" + "NADPH" -> "L-Lactate" + "NADP" 
+"lactate 2-monooxygenase" : "L-Lactate" -> "pyruvate" + "H2O2" 
+-----------------
+
+"cellobiose epimerase" : "lactose" -> "lactulose" + "epilactose" 
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactulose" -> "GDP" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "GDP" -> "GDP-Glc" + "glucose" 
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" 
+-----------------
+
+"cellobiose epimerase" : "lactose" -> "lactulose" + "epilactose" 
+"type 1 galactoside alpha-(1,2)-fucosyltransferase" : "GDP-L-fucose" + "lactulose" -> "GDP" + "2'-fucosyl-D-lactulose" 
+"alpha,alpha-trehalose synthase" : "trehalose" + "GDP" -> "GDP-Glc" + "glucose" 
+"pyranose oxidase" : "glucose" -> "D-glucosone" + "H2O2" 
+-----------------
+

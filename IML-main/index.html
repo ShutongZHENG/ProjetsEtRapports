@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Marcelle Example</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css">
+    <script defer type="module" src="/src/index.js"></script>
+  </head>
+  <body>
+    <noscript>
+      <strong>
+        We're sorry but this application doesn't work properly without JavaScript enabled. Please
+        enable it to continue.
+      </strong>
+    </noscript>
+    <div id="app"></div>
+    <div class="wrap">
+      <div class="left">
+        <div class="icons">
+          <img id="logo" src="src/icons/Logo.png">
+          <div class="icons_button">
+            <img id="image_Learn" src="src/icons/Learn.png" >
+            <img id="image_Challenge" src="src/icons/Challenge.png" >
+            <img id="image_Options" src="src/icons/Options.png" >
+          </div>
+        </div>
+      </div>
+      <div class="right">
+        <div id="content_learn">
+          <div id="content_learn_left"><h1>Learn</h1>
+            <p>Hello! Welcome to fingerspelling! You can learn the <br>gestures corresponding to each letter in the
+              picture <br>on the right before you move on to the official <br>practice. Once in practice mode, you
+              can use <br>the webcam on the right will automatically <br>take a picture of each gesture in the
+              word and <br>you will then get a feedback.</p></div>
+          <div id="content_learn_right"><img src="src/images/ManualAlphabet.png"></div>
+        </div>
+        <div id="content_challenge">
+          <h1>Challenge</h1>
+          <div id="result_challenge">
+            <h1 id="h1_result">You got 0 points! <br>Highest Score: 0</h1>
+            <button id="btn_result_challenge" onclick="">Try Again</button>
+          </div>
+        </div>
+        <div id="content_option">
+          <div id="content_option_left">
+            <h1>Options</h1>
+            <p>Click on the text input box on the right to edit <br>the word book, adding a comma after each <br>
+              word to separate the words.</p>
+          </div>
+          <div id="content_option_right">
+                <textarea id="textarea_words"
+                          placeholder=""></textarea>
+            <div id="content_learn_right_buttons">
+              <button id="btnValidate" onclick="">Validate</button>
+              <button onclick="">Cancel</button>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  </html>

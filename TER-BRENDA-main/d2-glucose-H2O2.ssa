@@ -1,0 +1,4 @@
+// Reactions
+
+"cellobiose dehydrogenase (acceptor)" : "cellobiose" -> "cellobionolactone" + "H2O2" | 75 uM - 4.11;	// 4-7
+"cellobiose phosphorylase" : "alpha-D-glucose 1 phosphate" + "glucose" -> "cellobiose" + "phosphate" | 2.15 mM, 3.79 mM - 43.2;	// 0-14

@@ -1,0 +1,4 @@
+// Reactions
+
+"glucose oxidase" : "a sugar" -> "glucarolactone" + "H2O2" | 67 mM - 0.3;	// 5.5-9
+"phloretin hydrolase" : "5'-O-beta-D-glucosylpyridoxine" + "lactose" -> "pyridoxol" + "a sugar" + "pyridoxinedisaccharide" | 1 mM, 16 mM - 1;	// 0-14

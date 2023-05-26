@@ -1,0 +1,5 @@
+// Reactions
+
+"alcohol dehydrogenase" : "aceton" + "NADH" -> "2-propanol" + "NAD+" | 6.6 mM, 13 uM - 0.317;	// 8.8-9.6
+"mannitol 2-dehydrogenase" : "D-gulitol" + "NAD+" -> "L-Sorbose" + "NADH" | 680 mM, 110 uM - 60;	// 6-10
+"pyranose oxidase" : "L-Sorbose" -> "5-keto-D-fructose" + "H2O2" | 23.5 mM - 58.8;	// 0-14
